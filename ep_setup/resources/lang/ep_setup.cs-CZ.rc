@@ -1,7 +1,7 @@
 ﻿#include "resources/resource.h"
 #include "winres.h"
 
-LANGUAGE LANG_CZECH, SUBLANG_CZECH_CS
+LANGUAGE LANG_CZECH, SUBLANG_CZECH
 
 STRINGTABLE
 BEGIN

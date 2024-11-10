@@ -37,7 +37,7 @@ BEGIN
 
     IDS_TB                      "Taskbar"
 
-    IDS_TB_STYLE                "Styl Taskbar"
+    IDS_TB_STYLE                "Styl Taskbaru"
     IDS_TB_STYLE_0              "Windows 11 (defaultní)"
     IDS_TB_STYLE_1              "Windows 10"
     IDS_TB_STYLE_2              "Windows 10 (ExplorerPatcher)"

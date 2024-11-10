@@ -79,7 +79,7 @@ BEGIN
     IDS_TB_GLOM_0               "Vždy kombinuj"
     IDS_TB_GLOM_1               "Kombinuj když je taskbar plný"
     IDS_TB_GLOM_2               "Nikdy nekombinuj"
-    IDS_TB_SECONDARYTBGLOM      "Combine taskbar icons on secondary taskbar(s)"
+    IDS_TB_SECONDARYTBGLOM      "Kombinuj ikony ikony taskbaru(ech)"
     IDS_TB_ICONSIZE             "Taskbar icon size"
     IDS_TB_ICONSIZE_1           "Small"
     IDS_TB_ICONSIZE_0           "Large (default)"

@@ -1,3 +1,5 @@
+TRANSLATIONS MOVED TO: https://github.com/Panzimy/ExplorerPatcher-L10N
+
 # ExplorerPatcher
 
 This project aims to enhance the working environment on Windows.
